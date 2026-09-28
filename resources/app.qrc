@@ -1,0 +1,14 @@
+<!DOCTYPE RCC>
+<!--
+  资源文件（.qrc）。
+
+  说明：
+    * 骨架默认只有一个空前缀，不含任何文件。要加图标/QSS，就在
+      <qresource> 里追加，例如：
+          <file alias="icons/app.ico">icons/app.ico</file>
+    * .qrc 由 rcc 编译，它**不是** .ui —— 本 skill 只禁止 .ui，不禁 .qrc。
+-->
+<RCC>
+    <qresource prefix="/">
+    </qresource>
+</RCC>

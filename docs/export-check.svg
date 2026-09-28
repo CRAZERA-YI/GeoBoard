@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="423.333mm" height="317.5mm"
+ viewBox="0 0 1200 900"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>GeoBoard 作图</title>
+<desc>由 GeoBoard 导出的矢量作图</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="none" stroke="#a0a0a0" stroke-opacity="0.352941" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="-81.8824,5.68434e-14 -81.8824,900 " />
+<polyline fill="none" vector-effect="none" points="16.9412,5.68434e-14 16.9412,900 " />
+<polyline fill="none" vector-effect="none" points="115.765,5.68434e-14 115.765,900 " />
+<polyline fill="none" vector-effect="none" points="214.588,5.68434e-14 214.588,900 " />
+<polyline fill="none" vector-effect="none" points="313.412,5.68434e-14 313.412,900 " />
+<polyline fill="none" vector-effect="none" points="412.235,5.68434e-14 412.235,900 " />
+<polyline fill="none" vector-effect="none" points="511.059,5.68434e-14 511.059,900 " />
+<polyline fill="none" vector-effect="none" points="609.882,5.68434e-14 609.882,900 " />
+<polyline fill="none" vector-effect="none" points="708.706,5.68434e-14 708.706,900 " />
+<polyline fill="none" vector-effect="none" points="807.529,5.68434e-14 807.529,900 " />
+<polyline fill="none" vector-effect="none" points="906.353,5.68434e-14 906.353,900 " />
+<polyline fill="none" vector-effect="none" points="1005.18,5.68434e-14 1005.18,900 " />
+<polyline fill="none" vector-effect="none" points="1104,5.68434e-14 1104,900 " />
+<polyline fill="none" vector-effect="none" points="1202.82,5.68434e-14 1202.82,900 " />
+<polyline fill="none" vector-effect="none" points="0,914.471 1200,914.471 " />
+<polyline fill="none" vector-effect="none" points="0,815.647 1200,815.647 " />
+<polyline fill="none" vector-effect="none" points="0,716.824 1200,716.824 " />
+<polyline fill="none" vector-effect="none" points="0,618 1200,618 " />
+<polyline fill="none" vector-effect="none" points="0,519.176 1200,519.176 " />
+<polyline fill="none" vector-effect="none" points="0,420.353 1200,420.353 " />
+<polyline fill="none" vector-effect="none" points="0,321.529 1200,321.529 " />
+<polyline fill="none" vector-effect="none" points="0,222.706 1200,222.706 " />
+<polyline fill="none" vector-effect="none" points="0,123.882 1200,123.882 " />
+<polyline fill="none" vector-effect="none" points="0,25.0588 1200,25.0588 " />
+<polyline fill="none" vector-effect="none" points="0,-73.7647 1200,-73.7647 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1.4" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="0,519.176 1200,519.176 " />
+<polyline fill="none" vector-effect="none" points="609.882,5.68434e-14 609.882,900 " />
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="-93.875" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-7</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4.9375" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-6</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="103.75" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-5</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="202.578" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-4</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="301.406" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-3</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="400.234" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-2</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="499.047" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-1</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="696.703" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >1</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="795.516" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >2</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="894.344" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >3</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="993.172" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >4</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="1092" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >5</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="1190.81" y="532.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >6</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="918.471" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-4</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="819.647" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-3</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="720.824" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-2</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="622" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >-1</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="424.353" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >1</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="325.529" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >2</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="226.706" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >3</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="127.882" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >4</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="29.0588" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >5</text>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="614.875" y="-69.7647" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >6</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="313.412" cy="519.176" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="318.412" y="505.176" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="321.406" y="512.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P1</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="530.824" cy="519.176" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="535.824" y="505.176" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="538.813" y="512.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P2</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="313.412" cy="519.176" r="217.412"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="115.765" cy="410.471" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="120.765" y="396.471" width="16" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="123.75" y="403.471" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P4</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="609.882" cy="410.471" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="614.882" y="396.471" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="617.875" y="403.471" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P5</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="115.765,410.471 609.882,410.471 " />
+</g>
+
+<g fill="#0000ff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="125.128" cy="410.471" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="130.128" y="396.471" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="133.125" y="403.471" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >I7</text>
+</g>
+
+<g fill="#0000ff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="501.696" cy="410.471" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="506.696" y="396.471" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="509.688" y="403.471" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >I8</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="758.118" cy="667.412" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="763.118" y="653.412" width="15" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="766.109" y="660.412" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P9</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="906.353" cy="519.176" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="911.353" y="505.176" width="20" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="914.344" y="512.176" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P10</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="1054.59" cy="667.412" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="1059.59" y="653.412" width="20" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="1062.58" y="660.412" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P11</text>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M1054.59,667.412 L1054.47,661.443 L1054.11,655.484 L1053.51,649.544 L1052.67,643.633 L1051.59,637.761 L1050.28,631.937 L1048.74,626.17 L1046.96,620.47 L1044.96,614.847 L1042.73,609.308 L1040.28,603.864 L1037.61,598.523 L1034.73,593.294 L1031.64,588.185 L1028.35,583.205 L1024.86,578.361 L1021.18,573.661 L1017.31,569.114 L1013.26,564.726 L1009.04,560.504 L1004.65,556.456 L1000.1,552.588 L995.404,548.906 L990.56,545.417 L985.58,542.125 L980.471,539.036 L975.241,536.156 L969.9,533.489 L964.456,531.038 L958.918,528.809 L953.294,526.805 L947.595,525.029 L941.828,523.484 L936.004,522.172 L930.132,521.096 L924.221,520.257 L918.281,519.657 L912.322,519.297 L906.353,519.176 L900.384,519.297 L894.425,519.657 L888.485,520.257 L882.574,521.096 L876.702,522.172 L870.878,523.484 L865.111,525.029 L859.412,526.805 L853.788,528.809 L848.25,531.038 L842.806,533.489 L837.465,536.156 L832.235,539.036 L827.126,542.125 L822.146,545.417 L817.302,548.906 L812.602,552.588 L808.055,556.456 L803.667,560.504 L799.445,564.726 L795.397,569.114 L791.529,573.661 L787.847,578.361 L784.358,583.205 L781.066,588.185 L777.977,593.294 L775.097,598.523 L772.43,603.864 L769.98,609.308 L767.751,614.847 L765.746,620.47 L763.97,626.17 L762.425,631.937 L761.113,637.761 L760.037,643.633 L759.198,649.544 L758.598,655.484 L758.238,661.443 L758.118,667.412"/>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="708.706" cy="370.941" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="713.706" y="356.941" width="20" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="716.703" y="363.941" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P13</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="1104" cy="370.941" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="1109" y="356.941" width="21" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="1112" y="363.941" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P14</text>
+</g>
+
+<g fill="#000000" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<circle cx="906.353" cy="163.412" r="4"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="911.353" y="149.412" width="20" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="914.344" y="156.412" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >P15</text>
+</g>
+
+<g fill="#000000" fill-opacity="0.109804" stroke="#000000" stroke-opacity="1" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<path vector-effect="none" fill-rule="evenodd" d="M708.706,370.941 L1104,370.941 L906.353,163.412 L708.706,370.941"/>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="845.059" y="294.765" width="39" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="848.047" y="301.765" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >4.20 u²</text>
+</g>
+
+<g fill="#ffffff" fill-opacity="0.784314" stroke="none" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="311.412" y="255.235" width="36" height="11"/>
+</g>
+
+<g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="314.406" y="262.235" font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+ >2.20 u</text>
+</g>
+</g>
+</svg>
